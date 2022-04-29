@@ -1,0 +1,7 @@
+H:\c# programming\guessingYourNumber\guessingYourNumber\bin\Debug\guessingYourNumber.exe
+H:\c# programming\guessingYourNumber\guessingYourNumber\bin\Debug\guessingYourNumber.pdb
+H:\c# programming\guessingYourNumber\guessingYourNumber\obj\Debug\guessingYourNumber.csprojResolveAssemblyReference.cache
+H:\c# programming\guessingYourNumber\guessingYourNumber\obj\Debug\guessingYourNumber.MainForm.resources
+H:\c# programming\guessingYourNumber\guessingYourNumber\obj\Debug\guessingYourNumber.csproj.GenerateResource.Cache
+H:\c# programming\guessingYourNumber\guessingYourNumber\obj\Debug\guessingYourNumber.exe
+H:\c# programming\guessingYourNumber\guessingYourNumber\obj\Debug\guessingYourNumber.pdb
